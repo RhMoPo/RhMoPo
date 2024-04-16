@@ -29,7 +29,7 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: auto;" />
           
 ## 🔮 Stats
-![Codewars](https://github.r2v.ch/codewars?user=rhmopo&stroke=red?refresh=1)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RhMoPo)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhMoPo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
