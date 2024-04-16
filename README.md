@@ -13,9 +13,9 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 <a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank" >**PHONETIC GUESSER**</a>: Guess the word from its phonetic transcription. Use hints with dictionary definitions to help! 
 
 <details>
-<summary>What is the word that this phonetic is associated with? **ɛɡˈzɑːmpl** (Click to expand)</summary>
+<summary>The phonetic is [ɛɡˈzɑːmpl] comes from what word? (Click to see answer)</summary>
 
-**Answer:** "GitHub" is pronounced as /ˈɡɪtˌhʌb/.
+**Answer:** ɛɡˈzɑːmpl = Example
 </details>
 
 
