@@ -31,6 +31,6 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 ## 🔮 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhMoPo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Codewars](https://github.r2v.ch/codewars?user=RhMoPo&stroke=red)
+[![Codewars](https://github.r2v.ch/codewars?user=RhMoPo&stroke=blue)
 
 
