@@ -6,11 +6,15 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 
 ⚡️ Fun fact: The username I use on GitHub is actually a play on my full name, Rhys Montgomery Postans!
 
+
+
 ## 💡 Projects
 
 <a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank" >**PHONETIC GUESSER**</a>: Guess the word from its phonetic transcription. Use hints with dictionary definitions to help! 
 
 <a href="https://rhmopo.github.io/translator/" target="_blank" >**SECRET LANGUAGE TRANSLATOR**</a>: After creating a secret language and sharing its rules with a friend, they quickly caught on and started enjoying it as much as I did! However, as our encrypted chats grew, so did the time I spent decoding them. So, I quietly devised a solution to streamline the process without revealing my decoding magic. Now, I zip through messages effortlessly, keeping my decoding skills a secret while still enjoying our encrypted conversations!
+
+
 
 ## 📲 Tools & Tech
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: auto;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: auto;"/>
@@ -27,6 +31,8 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="width: 50px; height: auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: auto;" />
+
+
           
 ## 🔮 Stats
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RhMoPo)](https://github.com/ignacio-cuadra/github-readme-codewars)
