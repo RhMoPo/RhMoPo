@@ -30,8 +30,6 @@ With a colourful tapestry of experience in law, business management, entrepreneu
           
 ## 🔮 Stats
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=RhMoPo)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhMoPo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 
