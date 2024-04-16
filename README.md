@@ -12,9 +12,9 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 
 <a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">**PHONETIC GUESSER**</a>: Guess the word from its phonetic transcription. Use hints with dictionary definitions to help! 
 
-**EXAMPLE:**
 <details>
-<summary>The phonetic [ɛɡˈzɑːmpl] comes from what word? (Click to see answer)</summary>
+<summary>
+What word is represented by the phonetic transcription [ɛɡˈzɑːmpl]? (Click to see answer)</summary>
 
 **Answer:** ɛɡˈzɑːmpl = Example
 </details>
