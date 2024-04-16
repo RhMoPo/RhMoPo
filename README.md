@@ -14,7 +14,7 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 
 <a href="https://rhmopo.github.io/translator/" target="_blank" >**SECRET LANGUAGE TRANSLATOR**</a>: After creating a secret language and sharing its rules with a friend, they quickly caught on and started enjoying it as much as I did! However, as our encrypted chats grew, so did the time I spent decoding them. So, I quietly devised a solution to streamline the process without revealing my decoding magic. Now, I zip through messages effortlessly, keeping my decoding skills a secret while still enjoying our encrypted conversations!
 
-*|```**_|*::|*_|_|*|```*_|```||*::**|::_|*_::|*|_|_|*_|```||**|_*|_|_|*_|```||*|```*_::|*_|```|*|```*|/\_|*|::_|**
+          *|```**_|*::|*_|_|*|```*_|```||*::**|::_|*_::|*|_|_|*_|```||**|_*|_|_|*_|```||*|```*_::|*_|```|*|```*|/\_|*|::_|**
 
 
 
