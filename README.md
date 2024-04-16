@@ -30,14 +30,7 @@ With a colourful tapestry of experience in law, business management, entrepreneu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: auto;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: auto;" />
           
-          
-          
-          
-          
-          
-          
-          
-
+## 🔮 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhMoPo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=RhMoPo&stroke=red)
