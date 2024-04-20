@@ -2,8 +2,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyspostans/)  
 
 ## 🚀 About Me
-With a colourful tapestry of experience in law, business management, entrepreneurship, and coding, I'm no ordinary software engineer. My legal background fine-tuned my knack for meticulous problem-solving, while studying business managment and Mandarin across the vibrant landscapes of Taiwan boosted my adaptability and cross-cultural fluency. As a
-business owner, I learned to skate on thin ice, turning challenges into triumphs with a sprinkle of creativity. And recently, coding at the School of Code has unleashed a new passion. I'm buzzing with excitement to weave these diverse threads into a thrilling career in software engineering, blending fun and function with every line of code!
+With a rich tapestry of experience spanning law, business management, entrepreneurship, and coding, I am far from your typical software engineer. My legal training honed my meticulous problem-solving skills, while my studies in business management and Mandarin across Taiwan's dynamic landscapes enhanced my adaptability and cross-cultural expertise. Owning a business taught me to navigate precarious situations, transforming challenges into victories with a dash of creativity. More recently, my coding journey at the School of Code has ignited a fresh passion. I am thrilled to integrate these varied experiences into a vibrant career in software engineering, seamlessly merging fun and functionality in every line of code!
 
 ⚡️ Fun fact: The username I use on GitHub is actually a play on my full name, Rhys Montgomery Postans!
 
