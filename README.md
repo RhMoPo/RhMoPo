@@ -12,7 +12,16 @@ With a rich tapestry of experience spanning law, business management, entreprene
 
 ## 💡 Projects 
 #### I love discussing my projects and welcome any questions about them, so feel free to ask!
-<img src="Phonetic-guesser-logo.png" alt="logo" height="150px"><img src="secret-translator-logo.png" alt="logo" height="150px">
+<td>
+    <a href="https://rhmopo.github.io/translator/" target="_blank">
+        <img src="secret-translator-logo.png" alt="Secret Language Translator Logo" height="150px">
+    </a>
+</td>
+<td>
+    <a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">
+        <img src="Phonetic-guesser-logo.png" alt="Phonetic Guesser Logo" height="150px">
+    </a>
+</td>
 
 <table>
   <tr>
