@@ -1,5 +1,7 @@
 ![banner](banner.png)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyspostans/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyspostans/)
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmp71171@gmail.com)
+
 
 ## 🚀 About Me
 With a rich tapestry of experience spanning law, business management, entrepreneurship, and coding, I am far from your typical software engineer. My legal training honed my meticulous problem-solving skills, while my studies in business management and Mandarin across Taiwan's dynamic landscapes enhanced my adaptability and cross-cultural expertise. Owning a business taught me to navigate precarious situations, transforming challenges into victories with a dash of creativity. More recently, my coding journey at the School of Code has ignited a fresh passion. I am thrilled to integrate these varied experiences into a vibrant career in software engineering, seamlessly merging fun and functionality in every line of code!
