@@ -13,15 +13,16 @@ With a rich tapestry of experience spanning law, business management, entreprene
 ## 💡 Projects 
 #### I love discussing my projects and welcome any questions about them, so feel free to ask!
 <td>
-    <a href="https://rhmopo.github.io/translator/" target="_blank">
-        <img src="secret-translator-logo.png" alt="Secret Language Translator Logo" height="150px">
-    </a>
-</td>
-<td>
     <a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">
         <img src="Phonetic-guesser-logo.png" alt="Phonetic Guesser Logo" height="150px">
     </a>
 </td>
+<td>
+    <a href="https://rhmopo.github.io/translator/" target="_blank">
+        <img src="secret-translator-logo.png" alt="Secret Language Translator Logo" height="150px">
+    </a>
+</td>
+
 
 <table>
   <tr>
@@ -46,7 +47,7 @@ What word is represented by the phonetic transcription [ɛɡˈzɑːmpl]? (Click 
 </details></td>
     <td>
              <strong>Phonetic Guesser V.1</strong>: JavaScript, CSS3, HTML5, Node.js, Express.js, draw.io<br><br>
-             <strong>Phonetic Guesser V.2</strong>: Next.js, React, JavaScript, Draw.io, Figma
+             <strong>Phonetic Guesser V.2</strong>: Next.js, React, JavaScript, GitHub Actions, Draw.io, Figma
     </td>
     <td>⏳ More functionality incoming...</td>      
   </tr>
