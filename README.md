@@ -10,20 +10,48 @@ With a rich tapestry of experience spanning law, business management, entreprene
 
 
 
-## 💡 Projects
+## 💡 Projects 
+#### I love discussing my projects and welcome any questions about them, so feel free to ask!
+  
 
-<a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">**PHONETIC GUESSER**</a>: Guess the word from its phonetic transcription. Use hints with dictionary definitions to help! 
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Description</td>
+    <td>Why was it made?</td>
+    <td>Tech used</td>
+    <td>Status</td>
+    
+
+  </tr>
+  <tr>
+    <td><a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">PHONETIC GUESSER</a></td>
+    <td>Guess the word from its phonetic transcription. Use hints with dictionary definitions to help!</td>
+    <td>This project began about three weeks into the School of Code. Initially, it wasn't designed as a formal project; rather, I simply wanted to experiment with some free APIs after learning how to make API calls using JavaScript. While examining the JSON response from a dictionary API, I noticed it included phonetics, which swiftly led to the creation of the basic concept for this game, where users are presented with a phonetic representation and must guess the corresponding word. Eager to avoid creating my own word database, I sought another API to automate the word generation process. Although this second API was not perfect due to compatibility issues between the two APIs, I managed to make it work. Additionally, this project became a valuable tool to implement and reinforce what I learned each week, helping to solidify my understanding and put my new skills into practice.<br><br> 
 
 <details>
 <summary>
 What word is represented by the phonetic transcription [ɛɡˈzɑːmpl]? (Click to see answer)</summary>
 
 **Answer:** ɛɡˈzɑːmpl = Example
-</details>  
+</details></td>
+    <td>
+             <strong>Phonetic Guesser V.1</strong>: JavaScript, CSS3, HTML5, Node.js, Express.js, draw.io<br><br>
+             <strong>Phonetic Guesser V.2</strong>: Next.js, React, JavaScript, Draw.io, Figma
+    </td>
+    <td>⏳ More functionality incoming...</td>      
+  </tr>
 
+  <tr>
+    <td><a href="https://rhmopo.github.io/translator/" target="_blank">SECRET LANGUAGE TRANSLATOR</a></td>
+    <td>This project involves a system designed to streamline the process of decoding messages that are written in a secret language I created with a friend.</td>
+    <td>The main motivation for creating this project was the increasing amount of time it took to decode our growing encrypted chats. I wanted to continue enjoying the unique and private nature of our communication without the growing burden of manual decoding. By devising a secretive decoding method, I could maintain the enjoyment and pace of our conversations, ensuring that the fun of our secret language didn't turn into a chore.</td>
+    <td>JavaScript, CSS3, HTML5</td>
+    <td>✅ Complete</td>      
+  </tr>
+</table>
 
-
-<a href="https://rhmopo.github.io/translator/" target="_blank">**SECRET LANGUAGE TRANSLATOR**</a>: After creating a secret language and sharing its rules with a friend, they quickly caught on and started enjoying it as much as I did! However, as our encrypted chats grew, so did the time I spent decoding them. So, I quietly devised a solution to streamline the process without revealing my decoding magic. Now, I zip through messages effortlessly, keeping my decoding skills a secret while still enjoying our encrypted conversations!
+After creating a secret language and sharing its rules with a friend, they quickly caught on and started enjoying it as much as I did! However, as our encrypted chats grew, so did the time I spent decoding them. So, I quietly devised a solution to streamline the process without revealing my decoding magic. Now, I zip through messages effortlessly, keeping my decoding skills a secret while still enjoying our encrypted conversations!
 
           *|```**_|*::|*_|_|*|```*_|```||*::**|::_|*_::|*|_|_|*_|```||**|_*|_|_|*_|```||*|```*_::|*_|```|*|```*|/\_|*|::_|**
 
