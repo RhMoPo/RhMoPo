@@ -19,7 +19,7 @@ With a rich tapestry of experience spanning law, business management, entreprene
 What word is represented by the phonetic transcription [ɛɡˈzɑːmpl]? (Click to see answer)</summary>
 
 **Answer:** ɛɡˈzɑːmpl = Example
-</details>
+</details>  
 
 
 
