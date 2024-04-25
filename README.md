@@ -12,7 +12,8 @@ With a rich tapestry of experience spanning law, business management, entreprene
 
 ## 💡 Projects 
 #### I love discussing my projects and welcome any questions about them, so feel free to ask!
-  
+<img src="Phonetic-guesser-logo.png" alt="logo" height="150px">
+<img src="secret-translator-logo.png" alt="logo" height="150px">
 
 <table>
   <tr>
