@@ -45,15 +45,15 @@ What word is represented by the phonetic transcription [ɛɡˈzɑːmpl]? (Click 
   <tr>
     <td><a href="https://rhmopo.github.io/translator/" target="_blank">SECRET LANGUAGE TRANSLATOR</a></td>
     <td>This project involves a system designed to streamline the process of decoding messages that are written in a secret language I created with a friend.</td>
-    <td>The main motivation for creating this project was the increasing amount of time it took to decode our growing encrypted chats. I wanted to continue enjoying the unique and private nature of our communication without the growing burden of manual decoding. By devising a secretive decoding method, I could maintain the enjoyment and pace of our conversations, ensuring that the fun of our secret language didn't turn into a chore.</td>
+    <td>The main motivation for creating this project was the increasing amount of time it took to decode our growing encrypted chats. I wanted to continue enjoying the unique and private nature of our communication without the growing burden of manual decoding. By devising a secretive decoding method, I could maintain the enjoyment and pace of our conversations, ensuring that the fun of our secret language didn't turn into a chore.<br><br>*|```**_|*::|*_|_|*|```*_|```||*::**|::_|*_::|*|_|_|*_|```||**|_*|_|_|*_|```||*|```*_::|*_|```|*|```*|/\_|*|::_|**</td>
     <td>JavaScript, CSS3, HTML5</td>
-    <td>✅ Complete</td>      
+    <td>✅ Completed</td>      
   </tr>
 </table>
 
-After creating a secret language and sharing its rules with a friend, they quickly caught on and started enjoying it as much as I did! However, as our encrypted chats grew, so did the time I spent decoding them. So, I quietly devised a solution to streamline the process without revealing my decoding magic. Now, I zip through messages effortlessly, keeping my decoding skills a secret while still enjoying our encrypted conversations!
 
-          *|```**_|*::|*_|_|*|```*_|```||*::**|::_|*_::|*|_|_|*_|```||**|_*|_|_|*_|```||*|```*_::|*_|```|*|```*|/\_|*|::_|**
+
+          
 
 
 
