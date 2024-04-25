@@ -20,7 +20,7 @@ With a rich tapestry of experience spanning law, business management, entreprene
 </td>
 <td>
     <a href="https://rhmopo.github.io/translator/" target="_blank">
-        <img src="secret-translator-logo.png" alt="Secret Language Translator Logo" height="150px">
+        <img src="secret-translator-logo.svg" alt="Secret Language Translator Logo" height="150px">
     </a>
 </td>
 
