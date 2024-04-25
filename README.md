@@ -12,8 +12,7 @@ With a rich tapestry of experience spanning law, business management, entreprene
 
 ## 💡 Projects 
 #### I love discussing my projects and welcome any questions about them, so feel free to ask!
-<img src="Phonetic-guesser-logo.png" alt="logo" height="150px">
-<img src="secret-translator-logo.png" alt="logo" height="150px">
+<img src="Phonetic-guesser-logo.png" alt="logo" height="150px"><img src="secret-translator-logo.png" alt="logo" height="150px">
 
 <table>
   <tr>
@@ -26,7 +25,7 @@ With a rich tapestry of experience spanning law, business management, entreprene
 
   </tr>
   <tr>
-    <td><a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">PHONETIC GUESSER</a></td>
+    <td><a href="https://rhmopo.github.io/phoneticGuesser2.0/" target="_blank">PHONETIC GUESSER</a><br></td>
     <td>Guess the word from its phonetic transcription. Use hints with dictionary definitions to help!</td>
     <td>This project began about three weeks into the School of Code. Initially, it wasn't designed as a formal project; rather, I simply wanted to experiment with some free APIs after learning how to make API calls using JavaScript. While examining the JSON response from a dictionary API, I noticed it included phonetics, which swiftly led to the creation of the basic concept for this game, where users are presented with a phonetic representation and must guess the corresponding word. Eager to avoid creating my own word database, I sought another API to automate the word generation process. Although this second API was not perfect due to compatibility issues between the two APIs, I managed to make it work. Additionally, this project became a valuable tool to implement and reinforce what I learned each week, helping to solidify my understanding and put my new skills into practice.<br><br> 
 
