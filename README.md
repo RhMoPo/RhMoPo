@@ -6,7 +6,7 @@
 ## 🚀 About Me
 With a rich tapestry of experience spanning law, business management, entrepreneurship, and coding, I am far from your typical software engineer. My legal training honed my meticulous problem-solving skills, while my studies in business management and Mandarin across Taiwan's dynamic landscapes enhanced my adaptability and cross-cultural expertise. Owning a business taught me to navigate precarious situations, transforming challenges into victories with a dash of creativity. More recently, my coding journey at the School of Code has ignited a fresh passion. I am thrilled to integrate these varied experiences into a vibrant career in software engineering, seamlessly merging fun and functionality in every line of code!
 
-⚡️ Fun fact: The username I use on GitHub is actually a play on my full name, Rhys Montgomery Postans!
+⚡️ Fun fact: My GitHub username is based on my full name, Rhys Montgomery Postans!
 
 
 
