@@ -1,4 +1,4 @@
-![banner](final-banner.png)
+![banner]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhyspostans/)
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmp71171@gmail.com)
 
