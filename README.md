@@ -6,13 +6,6 @@
 
 <p align="center">DevOps Engineer at Invoco Telecom</p>
 
----
-
-```yaml
-name: Rhys Postans
-location: UK
-role: Junior DevOps Engineer @ Invoco Telecom
-```
 
 ### Tech Stack
 
