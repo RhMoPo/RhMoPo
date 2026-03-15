@@ -36,7 +36,7 @@ role: Junior DevOps Engineer @ Invoco Telecom
 
 ### Featured Project
 
-**[SquaredUp](https://github.com/RhMoPo)** — Combat sport matchmaking platform. Spotted a real problem from training: interclub events are still organised on paper. Automates pairing by belt, weight, gender, and fight history. Next.js + Supabase + PostgreSQL, built solo end-to-end.
+**[SquaredUp](https://github.com/RhMoPo)**
 
 ---
 
